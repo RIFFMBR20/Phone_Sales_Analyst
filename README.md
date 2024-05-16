@@ -14,12 +14,11 @@ The primary objectives of this analysis are as follows:
 - Identify top Selling brand and name Phone
 
 ## Methodology
-1. **Data Acquisition:** The dataset used in this analysis was obtained from [Phones Sales]([link_to_dataset](https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset/data)) and contains [number of entries] entries and [number of features] features.
-2. **Data Cleaning:** Missing values were handled delete raw
-3. **Exploratory Data Analysis (EDA):** Various statistical techniques and visualization tools were employed to explore the dataset and gain insights into key variables and trends.
-4. **Analysis:** Quantitative analysis was conducted to examine relationships between variables, identify correlations, and derive meaningful conclusions.
-5. **Visualization:** Visual representations such as histograms, scatter plots, and heatmaps were used to present findings and communicate insights effectively.
-6. **Conclusion:** A summary of key findings market trends and top selling phone of top three brands with most selling.
+1. **Data Acquisition:** The dataset used in this analysis was obtained from [Smartphones Sales Dataset](https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset/data)
+2. **Exploratory Data Analysis (EDA):** Various statistical techniques and visualization tools were employed to explore the dataset and gain insights into key variables and trends.
+3. **Analysis:** Quantitative analysis was conducted to examine relationships between variables, identify correlations, and derive meaningful conclusions.
+4. **Visualization:** Visual representations such as histograms, scatter plots, and heatmaps were used to present findings and communicate insights effectively.
+5. **Conclusion:** A summary of key findings market trends and top selling phone of top three brands with most selling.
 
 ## Repository Structure
 - **data:** Contains the raw dataset used in the analysis.

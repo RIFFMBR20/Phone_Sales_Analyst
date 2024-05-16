@@ -19,7 +19,7 @@ The primary objectives of this analysis are as follows:
 3. **Exploratory Data Analysis (EDA):** Various statistical techniques and visualization tools were employed to explore the dataset and gain insights into key variables and trends.
 4. **Analysis:** Quantitative analysis was conducted to examine relationships between variables, identify correlations, and derive meaningful conclusions.
 5. **Visualization:** Visual representations such as histograms, scatter plots, and heatmaps were used to present findings and communicate insights effectively.
-6. **Conclusion:** A summary of key findings and recommendations based on the analysis is provided to guide decision-making and future research.
+6. **Conclusion:** A summary of key findings market trends and top selling phone of top three brands with most selling.
 
 ## Repository Structure
 - **data:** Contains the raw dataset used in the analysis.

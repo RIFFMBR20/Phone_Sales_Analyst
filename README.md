@@ -1,5 +1,8 @@
 # Mobile Phone Sales Analysis Project
 
+![Uploading image.png…]()
+
+
 ## Overview
 This project aims to analyze mobile phone data to gain insights into the market trends, user preferences, and product performance. The dataset used in this analysis contains information about various aspects of mobile phones, including brands, colors, memory, storage, ratings, prices, and discounts.
 

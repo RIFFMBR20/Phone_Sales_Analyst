@@ -1,7 +1,6 @@
 # Mobile Phone Sales Analysis Project
 
-![Uploading image.png…]()
-
+![image](https://github.com/RIFFMBR20/Phone_Sales_Analyst/assets/95732582/ef24cc23-c657-45cc-b77a-2109b2fe529e)
 
 ## Overview
 This project aims to analyze mobile phone data to gain insights into the market trends, user preferences, and product performance. The dataset used in this analysis contains information about various aspects of mobile phones, including brands, colors, memory, storage, ratings, prices, and discounts.
